@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/homepage/static/css/main.39f589df.css",
-    "main.js": "/homepage/static/js/main.e0833a24.js",
-    "static/js/787.4ef7427d.chunk.js": "/homepage/static/js/787.4ef7427d.chunk.js",
-    "static/media/welcome.webp": "/homepage/static/media/welcome.44f0259c0f3d482c7231.webp",
-    "index.html": "/homepage/index.html",
-    "main.39f589df.css.map": "/homepage/static/css/main.39f589df.css.map",
-    "main.e0833a24.js.map": "/homepage/static/js/main.e0833a24.js.map",
-    "787.4ef7427d.chunk.js.map": "/homepage/static/js/787.4ef7427d.chunk.js.map"
+    "main.css": "/team-19-scorer/static/css/main.39f589df.css",
+    "main.js": "/team-19-scorer/static/js/main.f226c60f.js",
+    "static/js/787.4ef7427d.chunk.js": "/team-19-scorer/static/js/787.4ef7427d.chunk.js",
+    "static/media/welcome.webp": "/team-19-scorer/static/media/welcome.44f0259c0f3d482c7231.webp",
+    "index.html": "/team-19-scorer/index.html",
+    "main.39f589df.css.map": "/team-19-scorer/static/css/main.39f589df.css.map",
+    "main.f226c60f.js.map": "/team-19-scorer/static/js/main.f226c60f.js.map",
+    "787.4ef7427d.chunk.js.map": "/team-19-scorer/static/js/787.4ef7427d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.39f589df.css",
-    "static/js/main.e0833a24.js"
+    "static/js/main.f226c60f.js"
   ]
 }
