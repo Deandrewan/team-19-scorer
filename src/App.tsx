@@ -1,5 +1,6 @@
 import React from "react";
 import "./App.css";
+import welcome from "./assets/welcome.webp";
 
 function App(): JSX.Element {
     return (
@@ -8,8 +9,7 @@ function App(): JSX.Element {
                 UD CISC275 with React Hooks and TypeScript
             </header>
             <p>
-                Edit <code>src/App.tsx</code> and save. This page will
-                automatically reload.
+                <img src={welcome} alt="loading..." />
             </p>
         </div>
     );
